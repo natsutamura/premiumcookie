@@ -1,7 +1,46 @@
 [
     {
+        "domain": ".creativefabrica.com",
+        "expirationDate": 1706593737.152404,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga_77VM5LCGS9",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GS1.1.1672033307.8.1.1672033737.0.0.0"
+    },
+    {
+        "domain": ".creativefabrica.com",
+        "expirationDate": 1706593736.863563,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.1.1353845539.1672033568"
+    },
+    {
+        "domain": ".creativefabrica.com",
+        "expirationDate": 1672120136,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gid",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.2.1180166351.1672033568"
+    },
+    {
         "domain": ".www.creativefabrica.com",
-        "expirationDate": 1671538541.438572,
+        "expirationDate": 1672206370.445151,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wp_woocommerce_session_ac3575f3effc9e01556832fcfd15e097",
@@ -10,24 +49,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "726d8b4200bfd72b45a98ca80ffdc3dc%7C%7C1671538539%7C%7C1671534939%7C%7Cffe3d2cd498f6b33881f52d84b5c6439"
+        "value": "c0391408f548c1c64c0e57ecb08eecfc%7C%7C1672206370%7C%7C1672202770%7C%7C3bda19b95c1bf82233d0381ef2412f9f"
     },
     {
         "domain": "www.creativefabrica.com",
-        "expirationDate": 1700311725.277503,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "cf_reset",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "1668775726"
-    },
-    {
-        "domain": "www.creativefabrica.com",
-        "expirationDate": 1671859380.521531,
+        "expirationDate": 1672633542.728303,
         "hostOnly": true,
         "httpOnly": false,
         "name": "last_viewed_product",
@@ -36,11 +62,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "7989148"
+        "value": "38126837"
     },
     {
         "domain": ".creativefabrica.com",
-        "expirationDate": 1702902006,
+        "expirationDate": 1703569737,
         "hostOnly": false,
         "httpOnly": false,
         "name": "amp_12715a",
@@ -49,11 +75,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "9Wf1HB08QS3WhDAq4OObPX.dXNlci0zODMwNzQ5..1gkiii9i2.1gkiiqlic.b.2.d"
+        "value": "xuXVzTjKn3s8wxehkuAfXO.dXNlci0zODY0MzEx..1gl6ff18a.1gl6fk6l8.e.1.f"
     },
     {
         "domain": ".www.creativefabrica.com",
-        "expirationDate": 1671448536.201157,
+        "expirationDate": 1672116366.623303,
         "hostOnly": false,
         "httpOnly": false,
         "name": "cid_promo_expire",
@@ -62,7 +88,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "2022-12-19T11%3A15%3A36%2B00%3A00"
+        "value": "2022-12-27T04%3A46%3A07%2B00%3A00"
     },
     {
         "domain": "www.creativefabrica.com",
@@ -79,7 +105,7 @@
     },
     {
         "domain": ".www.creativefabrica.com",
-        "expirationDate": 1674000983.420062,
+        "expirationDate": 1674668824.206947,
         "hostOnly": false,
         "httpOnly": true,
         "name": "wordpress_logged_in_ac3575f3effc9e01556832fcfd15e097",
@@ -88,11 +114,24 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "sun.martin.a.8.8%7C1673957783%7CrqNmLEYONKqOzVRTkkvlhbvrgdqYZmscWnQI1IzlLnT%7Cde85613dc776d1499ee520205372ec4bc0eda390483a4ce65d13e26223912f2f"
+        "value": "sunmartina8.8%7C1674625624%7CAkDZQCYxfLefDvPSn0RUPJDlexeQcdIqmkPjYaPKxyf%7C8378ee0817e868d9d84c0455ce1fb8372200cadbfb044344ad810189bcffaaff"
+    },
+    {
+        "domain": ".creativefabrica.com",
+        "expirationDate": 1703569737,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "ajs_anonymous_id",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "ed2f5d6f-7fd5-4579-88c2-47abb56bf329"
     },
     {
         "domain": ".www.creativefabrica.com",
-        "expirationDate": 1705926005.895237,
+        "expirationDate": 1706593736.934517,
         "hostOnly": false,
         "httpOnly": false,
         "name": "bp_ut_session",
@@ -101,11 +140,37 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "%7B-q-pageviews-q-%3A11-c--q-referrer-q-%3A-q-https%3A%2F%2Fwww.creativefabrica.com%2Flogin%2F-q--c--q-landingPage-q-%3A-q-https%3A%2F%2Fwww.creativefabrica.com%2Fcart%2F-q--c--q-started-q-%3A1671366005894%7D"
+        "value": "%7B-q-pageviews-q-%3A14-c--q-referrer-q-%3A-q--q--c--q-landingPage-q-%3A-q-https%3A%2F%2Fwww.creativefabrica.com%2Fpromo%2F1069%2FFGHIJKLMNO%2F-q--c--q-started-q-%3A1672033736933%7D"
+    },
+    {
+        "domain": ".creativefabrica.com",
+        "expirationDate": 1679809567,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gcl_au",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1.1.1402914821.1672033567"
+    },
+    {
+        "domain": ".creativefabrica.com",
+        "expirationDate": 1705729737,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_uetvid",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "22b7bf40da7b11ecbd52c760931cdb81"
     },
     {
         "domain": ".www.creativefabrica.com",
-        "expirationDate": 1705925731.587393,
+        "expirationDate": 1706593566.623177,
         "hostOnly": false,
         "httpOnly": false,
         "name": "bp_user-role",
@@ -118,7 +183,7 @@
     },
     {
         "domain": ".creativefabrica.com",
-        "expirationDate": 1671426747.623013,
+        "expirationDate": 1672045210.769568,
         "hostOnly": false,
         "httpOnly": true,
         "name": "__cf_bm",
@@ -127,11 +192,24 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "2tl9HmqnIkGbf5HgdyDj1G76Nrmxv0vSyZ8rfMqYJrI-1671424948-0-AVzBO15Sj3v7rX/ANhUTw73qYOPj/qZNePy/dvA9Wm9ctZ78tta5VEvwhYgFHsKR3VOR1AgbxgWk7B7LK3pTKZ50m/NK1TiQcVGnSzoqqJKpaqzH+3bdTflmayRPDerD0TVs2mvxEnv+SHl6d4izyws="
+        "value": "rqO7BK0Qt9epfb2rmDpQb7HV54ihf7NWuJ5HQS07hYM-1672043411-0-AVg0p0COZ4p7hvWJYHR1lk2xwjMeb37aFbPBXMXVza3Jcl9zSIsAM1EPF/G/EFQ+03W3/8iWpgZR67gmHtD4gyIWcUjDDw9n2ofafojkwKkaSNwaxeWUfed13s2bAwSROChKVd7Cy8wX/StZ9PI7lBI="
+    },
+    {
+        "domain": ".creativefabrica.com",
+        "expirationDate": 1672120137,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_uetsid",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "fd21467084df11edb1c3efebaf9a5dd7"
     },
     {
         "domain": ".www.creativefabrica.com",
-        "expirationDate": 1702901787,
+        "expirationDate": 1703569647,
         "hostOnly": false,
         "httpOnly": false,
         "name": "__stripe_mid",
@@ -140,11 +218,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "c4cdec69-8be3-4eb2-8673-30b5f4d2b2efa04903"
+        "value": "f859b007-ec43-4896-8847-08d21af27ff9b9fe40"
     },
     {
         "domain": ".www.creativefabrica.com",
-        "expirationDate": 1686917731,
+        "expirationDate": 1687585572,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ALGOLIA",
@@ -153,11 +231,24 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "anonymous-80eb044a-b070-4355-8456-c3c5f214e390"
+        "value": "anonymous-000fb2ab-4aa1-4c76-83e8-cf052cfc7a6d"
     },
     {
         "domain": ".creativefabrica.com",
-        "expirationDate": 1702902006,
+        "expirationDate": 1679809737,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_fbp",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "fb.1.1672033568308.516312439"
+    },
+    {
+        "domain": ".creativefabrica.com",
+        "expirationDate": 1703569737,
         "hostOnly": false,
         "httpOnly": false,
         "name": "ajs_user_id",
@@ -166,11 +257,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "user-3830749"
+        "value": "user-3864311"
     },
     {
         "domain": ".www.creativefabrica.com",
-        "expirationDate": 1705925731.587411,
+        "expirationDate": 1706593566.623214,
         "hostOnly": false,
         "httpOnly": false,
         "name": "bp_user-registered",
@@ -183,7 +274,7 @@
     },
     {
         "domain": "www.creativefabrica.com",
-        "expirationDate": 1705984945.338215,
+        "expirationDate": 1706603409.391874,
         "hostOnly": true,
         "httpOnly": false,
         "name": "bp_ut_session",
@@ -192,11 +283,24 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "%7B-q-pageviews-q-%3A1-c--q-referrer-q-%3A-q--q--c--q-landingPage-q-%3A-q-https%3A%2F%2Fwww.creativefabrica.com%2F-q--c--q-started-q-%3A1671424945337%7D"
+        "value": "%7B-q-pageviews-q-%3A1-c--q-referrer-q-%3A-q--q--c--q-landingPage-q-%3A-q-https%3A%2F%2Fwww.creativefabrica.com%2F-q--c--q-started-q-%3A1672043409391%7D"
+    },
+    {
+        "domain": ".www.creativefabrica.com",
+        "expirationDate": 1703569589.204174,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "cf_reset",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1672033589"
     },
     {
         "domain": ".creativefabrica.com",
-        "expirationDate": 1674000983.419822,
+        "expirationDate": 1674668824.206725,
         "hostOnly": false,
         "httpOnly": false,
         "name": "cf_sso_loggedin",
@@ -209,7 +313,7 @@
     },
     {
         "domain": ".www.creativefabrica.com",
-        "expirationDate": 1671473732,
+        "expirationDate": 1672141568,
         "hostOnly": false,
         "httpOnly": false,
         "name": "cfAmpSessionId",
@@ -218,11 +322,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "1671365731906"
+        "value": "1672033568010"
     },
     {
         "domain": ".www.creativefabrica.com",
-        "expirationDate": 1671448536.201121,
+        "expirationDate": 1672116366.623272,
         "hostOnly": false,
         "httpOnly": false,
         "name": "cid_promo",
@@ -235,7 +339,7 @@
     },
     {
         "domain": ".www.creativefabrica.com",
-        "expirationDate": 1673957731.587375,
+        "expirationDate": 1674625566.623113,
         "hostOnly": false,
         "httpOnly": false,
         "name": "currency",
@@ -268,6 +372,67 @@
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "c9c24bca200b63ae56c62ad829ea580c"
+        "value": "fc5540daf2f14bd8d62303704b629670"
+    },
+    {
+        "domain": ".www.creativefabrica.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "woocommerce_cart_hash",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "cebf8e70b70d69c9cfb99ca8a80653a2"
+    },
+    {
+        "domain": "www.creativefabrica.com",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "woocommerce_cart_hash",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "cebf8e70b70d69c9cfb99ca8a80653a2"
+    },
+    {
+        "domain": ".www.creativefabrica.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "woocommerce_items_in_cart",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": "www.creativefabrica.com",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "woocommerce_items_in_cart",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": "www.creativefabrica.com",
+        "expirationDate": 1672206370.282291,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "wp_woocommerce_session_ac3575f3effc9e01556832fcfd15e097",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "c0391408f548c1c64c0e57ecb08eecfc%7C%7C1672206370%7C%7C1672202770%7C%7C3bda19b95c1bf82233d0381ef2412f9f"
     }
 ]
